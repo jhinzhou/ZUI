@@ -1,9 +1,5 @@
 # 👋 Hi, I’m @jhinzhou
 
-## 👀 I’m interested in
+## 👀 Readme has information
 
-## 🌱 I’m currently learning
-
-## 💞️ I’m looking to collaborate on
-
-## 📫 How to reach me
+## 📫 How to ? w857035085@126.com
