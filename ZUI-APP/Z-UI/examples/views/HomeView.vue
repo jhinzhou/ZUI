@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <TagTextarea></TagTextarea>
+    <z-button />
+    <z-switch />
   </div>
 </template>
 

@@ -3,8 +3,9 @@
 </template>
 
 <script>
+const COMPONENT_NAME = 'z-button'
 export default {
-  name: 'TagInput',
+  name: COMPONENT_NAME,
   data () {
     return {
       font: '我是zj'

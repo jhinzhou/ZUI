@@ -1,19 +1,16 @@
 // 导入单个组件
-import Textarea from './textarea/index'
-import Input from './input/index'
+import ZSwitch from './switch/index'
+import ZButton from './button/index'
 
 // 以数组的结构保存组件，便于遍历
-const components = [
-  Textarea,
-  Input
-]
+const components = [ZSwitch, ZButton]
 
 // 定义 install 方法
 const install = function (Vue) {
   if (install.installed) return
   install.installed = true
   // 遍历并注册全局组件
-  components.forEach(component => {
+  components.forEach((component) => {
     Vue.component(component.name, component)
   })
 }
